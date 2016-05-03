@@ -1,6 +1,7 @@
- 
+
  git remote add origin git@github.com:dingbf/learngit.git
 
  Edit this file in branch dev1.
 
 
+ Conflict occur here!
